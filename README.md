@@ -23,3 +23,6 @@ Link of nodered flow :- https://node-red-mars.eu-gb.mybluemix.net/red/#flow/49c9
 
 Github link :- https://github.com/SmartPracticeschool/llSPS-INT-3373-Predicting-Life-Expectancy-using-Machine-Learning
 
+A simple Restaurant chat bot made by IBM resources. 
+Link for chat bot :- https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=a7556d9f-4889-44fc-8c3a-4f37dd0e7d28&serviceInstanceID=9d3a578c-455f-4480-9f49-d65d0b0da22a Have a Casual Talks about hotel food management, Availability of food ,Order food , Available Discount.
+
