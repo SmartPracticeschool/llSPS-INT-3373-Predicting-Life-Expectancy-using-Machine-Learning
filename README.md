@@ -20,3 +20,6 @@ Proposed solution:- Important immunization like Hepatitis B, Polio and Diphtheri
 => For these tasks, we required data sets for analysis of data on above mentioned basis. The Dataset file is actually taken from Kaggle.
 
 Link of nodered flow :- https://node-red-mars.eu-gb.mybluemix.net/red/#flow/49c9a03e.1feaa 
+
+Github link :- https://github.com/SmartPracticeschool/llSPS-INT-3373-Predicting-Life-Expectancy-using-Machine-Learning
+
