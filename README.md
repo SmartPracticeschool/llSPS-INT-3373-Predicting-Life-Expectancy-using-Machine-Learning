@@ -23,3 +23,5 @@ Link of nodered flow :- https://node-red-mars.eu-gb.mybluemix.net/red/#flow/49c9
 
 Github link :- https://github.com/SmartPracticeschool/llSPS-INT-3373-Predicting-Life-Expectancy-using-Machine-Learning
 
+Youtube Video link :-  https://youtu.be/8A3zkhWLcX0
+
